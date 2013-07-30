@@ -5,10 +5,11 @@ what it does
 ------------
 Close all files except current file, similar to Notepad++ close all but this
 
-Key
----
-
-`Ctrl`+`shift`+`]`
+Key and menu options
+--------------------
+- Right click and select CloseALLButThis
+- Click File menu option and select CloseALLButThis
+- Press `Ctrl`+`shift`+`]`
 
 `Inspired from Notepad++`
 
