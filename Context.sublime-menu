@@ -1,0 +1,8 @@
+[
+    { 
+    	"id": "CloseALLButThis",
+    	"command": "cabt",
+    	"caption": "CloseALLButThis"
+    }
+
+]

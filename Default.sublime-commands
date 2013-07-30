@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Close All But This: Close all files except this one",
+        "command": "cabt"
+    }
+]    

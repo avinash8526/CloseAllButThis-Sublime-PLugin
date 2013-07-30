@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "File",
+        "mnemonic": "n",
+        "id": "file",
+        "children":
+        [
+            {
+                "caption": "CloseALLButThis",
+                "mnemonic": "P",
+                "id": "cabt",
+                "command":"cabt"
+             }  
+        ]
+    }
+]        
