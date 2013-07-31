@@ -9,7 +9,7 @@ Key and menu options
 --------------------
 - Right click and select CloseALLButThis
 - Click File menu option and select CloseALLButThis
-- Press `Ctrl`+`shift`+`]`
+- Press `Ctrl`+`alt`+`9`
 
 `Inspired from Notepad++`
 
