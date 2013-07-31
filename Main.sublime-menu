@@ -1,16 +1,16 @@
 [
     {
         "caption": "File",
-        "mnemonic": "n",
+        "mnemonic": "f",
         "id": "file",
         "children":
         [
             {
-                "caption": "CloseALLButThis",
-                "mnemonic": "P",
+                "caption": "Close ALL But This",
+                "mnemonic": "",
                 "id": "cabt",
                 "command":"cabt"
              }  
         ]
     }
-]        
+]         
